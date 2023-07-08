@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author guggi
+ *
+ */
+module GitHub {
+}
